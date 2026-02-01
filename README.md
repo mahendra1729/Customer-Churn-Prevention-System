@@ -1,4 +1,4 @@
-# Bank Customer Churn Analysis
+# Customer Churn Prevention System
 
 A European retail bank with 10,000+ customers was experiencing significant customer attrition, threatening revenue stability and market position. The organization lacked visibility into critical questions
 > Predictive analytics platform reducing customer attrition by 20% through data-driven retention strategies
