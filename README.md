@@ -21,13 +21,13 @@ Dataset: 10,000 customer records — demographics, account details, product usag
 
 |**Segment**  	|                  **Finding**                                                    |
 |---------------|---------------------------------------------------------------------------------|
-Geography         	Germany churns at 32.4% vs. ~16-17% in France/Spain
-Age	                40–50 age group has the highest churn (56%)
-Product count     	Single-product customers churn at 27.7% vs. 10.3% for multi-product customers
-Activity status   	Inactive members churn at 26.9% vs. 14.3% for active members
-Credit score	      Lowest band (400–600) churns at 29.8%
-Balance	Churned     customers carry a higher average balance (€91,810) than retained customers (€72,745)
-Tenure          	  New customers (0–2 years) churn more (23.5%) than mid-tenure customers
+|Geography      |Germany churns at 32.4% vs. ~16-17% in France/Spain                              |
+|Age	          |      40–50 age group has the highest churn (56%)                                 |
+|Product count  |   	Single-product customers churn at 27.7% vs. 10.3% for multi-product customers |
+|Activity status|   	Inactive members churn at 26.9% vs. 14.3% for active members                  |
+|Credit score	  |   Lowest band (400–600) churns at 29.8%                                           |
+|Balance	Churned|    customers carry a higher average balance (€91,810) than retained customers (€72,745) |
+|Tenure          | New customers (0–2 years) churn more (23.5%) than mid-tenure customers                 |
 
 **3.** Dashboard build Built a 4-page interactive Power BI dashboard: Executive Summary, Customer Segmentation, Financial Impact modeling, and Risk Analysis, with drill-through, cross-filtering, and a custom risk-scoring DAX measure combining geography, age, product count, and activity signals.
 
