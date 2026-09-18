@@ -19,7 +19,8 @@ Dataset: 10,000 customer records — demographics, account details, product usag
 
 **2.** Segmentation analysis Broke down churn rate across 7 dimensions:
 
-**Segment**	                  **Finding**
+|**Segment**  	|                  **Finding**                                                    |
+|---------------|---------------------------------------------------------------------------------|
 Geography         	Germany churns at 32.4% vs. ~16-17% in France/Spain
 Age	                40–50 age group has the highest churn (56%)
 Product count     	Single-product customers churn at 27.7% vs. 10.3% for multi-product customers
