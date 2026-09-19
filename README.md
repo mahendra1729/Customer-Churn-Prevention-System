@@ -6,7 +6,7 @@ Self-directed portfolio project analyzing a public bank customer dataset (10,000
 
 Bank customer churn is a well-known analytics case study. I used this dataset to build an end-to-end analysis: from raw data to a segmented, interactive Power BI dashboard, with the goal of identifying which customer groups are most likely to churn and why.
 
-Dataset: 10,000 customer records — demographics, account details, product usage, churn flag (Exited: 1 = churned, 0 = retained) Baseline churn rate: 20.4% (2,037 of 10,000 customers)
+Dataset:This analysis uses data with a structure and business context exactly comparable to real company data, extracted from a public dataset. 10,000 customer records — demographics, account details, product usage, churn flag (Exited: 1 = churned, 0 = retained) Baseline churn rate: 20.4% (2,037 of 10,000 customers)
 
 # Objectives
 - Identify which customer segments churn at the highest rate
